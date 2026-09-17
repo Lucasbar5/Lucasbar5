@@ -33,7 +33,9 @@ and collecting XP until the next deployment.
 ```
 
 **Weapon:** Backend.
+
 **Armor:** Docker.
+
 **Amulet:** AWS.
 
 </td>
@@ -61,44 +63,6 @@ I am especially interested in **microservices, distributed systems, automation, 
 Currently collecting XP mainly in:
 
 `Java` • `Spring Boot` • `Docker` • `PostgreSQL` • `Kafka` • `AWS`
-
-```text
-Class ............. Software Developer
-Specialization .... Backend / Infrastructure
-Main Weapon ....... Backend Development
-Current Quest ...... Cloud & Distributed Systems
-Passive Skill ...... "Works on my machine"
-Special Hab. ....... Never Gives Up
-Status ............. Gaining XP...
-```
-
----
-
-## 🧬 Skill Tree
-
-```text
-Backend Development
-├── Java
-│   ├── Spring Boot
-│   ├── Spring Security
-│   └── REST APIs
-│
-├── Databases
-│   ├── PostgreSQL
-│   └── MongoDB
-│
-Infrastructure
-├── Docker
-├── Docker Compose
-├── Linux
-├── AWS
-└── Terraform
-
-Distributed Systems
-├── Kafka
-├── Microservices
-└── Service Integration
-```
 
 <div align="center">
 
