@@ -32,26 +32,20 @@ and collecting XP until the next deployment.
 ╚══════════════════════╝
 ```
 
-**Class:** Software Developer
-**Build:** Backend / Infrastructure
-**Main Weapon:** Backend Development
-**Status:** Learning
-**Current Quest:** `Ship → Learn → Repeat`
+**Weapon:** Backend.
+**Armor:** Docker.
+**Amulet:** AWS.
 
 </td>
-
 <td width="64%" align="center">
-
 <img
-src="./assets/dev-room.gif"
+src="./assets/developer.gif"
 width="480"
 alt="Pixel art developer coding and leveling up skills"
 />
-
 </td>
 </tr>
 </table>
-
 <br>
 
 ---
@@ -72,11 +66,9 @@ Currently collecting XP mainly in:
 Class ............. Software Developer
 Specialization .... Backend / Infrastructure
 Main Weapon ....... Backend Development
-Framework .......... Spring Boot
-Environment ........ Linux
-Container .......... Docker
 Current Quest ...... Cloud & Distributed Systems
 Passive Skill ...... "Works on my machine"
+Special Hab. ....... Never Gives Up
 Status ............. Gaining XP...
 ```
 
@@ -107,41 +99,6 @@ Distributed Systems
 ├── Microservices
 └── Service Integration
 ```
-
----
-
-## 🗺️ Current Quests
-
-```text
-Backend Development
-[████████████████░░░░]
-
-Infrastructure
-[███████████████░░░░░]
-
-DevOps
-[█████████████░░░░░░░]
-
-Cloud
-[████████████░░░░░░░░]
-
-Distributed Systems
-[███████████░░░░░░░░░]
-```
-
-> There is always another skill to level up.
-
----
-
-## 📡 Connect
-
-<div align="center">
-
-[GitHub](#) • [LinkedIn](#) • [Email](#)
-
-</div>
-
-<br>
 
 <div align="center">
 
