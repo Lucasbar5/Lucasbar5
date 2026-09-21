@@ -2,10 +2,10 @@
 
 # 🎮 Lucas Salvador
 
-### `Software Developer • Backend • Infrastructure • DevOps`
+### `Backend Developer • Java & Spring Boot • Python & Flask`
 
 Building systems, breaking a few things along the way,
-and collecting XP until the next deployment.
+and collecting experience until the next deployment.
 
 </div>
 
@@ -15,28 +15,27 @@ and collecting XP until the next deployment.
 <tr>
 <td width="36%" valign="top">
 
-### ⚔️ CHARACTER STATS
+### ⚔️ SKILL TREE
 
 ```text
-╔══════════════════════╗
-║   DEVELOPER STATUS   ║
-╠══════════════════════╣
-║ Java          20/20  ║
-║ Spring Boot   18/20  ║
-║ Docker        17/20  ║
-║ Git           16/20  ║
-║ PostgreSQL    15/20  ║
-║ DevOps        14/20  ║
-║ Kafka         13/20  ║
-║ AWS           12/20  ║
-╚══════════════════════╝
+Languages
+└── Java · Python
+
+Frameworks
+└── Spring Boot · Flask
+
+Databases
+└── PostgreSQL · MongoDB
+
+Messaging
+└── Kafka
+
+Infrastructure
+└── Docker · AWS · Terraform
+
+Version Control
+└── Git
 ```
-
-**Weapon:** Backend.
-
-**Armor:** Docker.
-
-**Amulet:** AWS.
 
 </td>
 <td width="64%" align="center">
@@ -54,18 +53,23 @@ alt="Pixel art developer coding and leveling up skills"
 
 ## 👨‍💻 About This Character
 
-Software developer focused on **backend development, software architecture, infrastructure, and DevOps**.
+Backend developer working with **Java & Spring Boot** and **Python & Flask**, with a focus on **software architecture, infrastructure, and DevOps**.
 
 I enjoy turning loosely defined ideas into functional, structured, and scalable systems — from application development to the services and infrastructure required to keep everything running.
 
 I am especially interested in **microservices, distributed systems, automation, messaging, cloud infrastructure, and system integration**.
 
-Currently collecting XP mainly in:
+My current toolkit includes:
 
-`Java` • `Spring Boot` • `Docker` • `PostgreSQL` • `Kafka` • `AWS`
+- **Backend & integration:** `Java` • `Spring Boot` • `Spring Security` • `Python` • `Flask` • `REST APIs` • `Kafka`
+- **Databases:** `PostgreSQL` • `MongoDB`
+- **Infrastructure & development tools:** `Docker` • `Docker Compose` • `Linux` • `AWS` • `Terraform` • `Git`
+
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/lucas-salvador-97b0ba1b5/)
 
 <div align="center">
 
-### `> Keep coding. XP never stops.`
+### `> Keep coding. Experience never stops.`
 
 </div>
